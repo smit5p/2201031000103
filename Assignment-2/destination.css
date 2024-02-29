@@ -1,0 +1,631 @@
+.safar3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.frame-link-malaysia {
+  height: 67px;
+  width: 156px;
+  position: absolute;
+  margin: 0 !important;
+  top: -24px;
+  right: -13px;
+  mix-blend-mode: hard-light;
+  z-index: 1;
+}
+.frame-link-nepal {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.home3 {
+  position: relative;
+  text-decoration: underline;
+}
+.bhutan-tour-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+  color: var(--text-light);
+}
+.about3 {
+  position: relative;
+  text-decoration: underline;
+}
+.bhutan-tour-link1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+}
+.contact3,
+.destination3 {
+  position: relative;
+  text-decoration: underline;
+}
+.contact3 {
+  line-height: 119.05%;
+}
+.link-view-all-tours {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.heading-international-packages {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.register3 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  color: var(--dark);
+  text-align: left;
+}
+.myanmar-tour-link {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-smi) var(--padding-xs) var(--padding-xs);
+  background-color: var(--text-light);
+  width: 121px;
+  border-radius: var(--br-81xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.myanmar-tour-link:hover {
+  background-color: var(--color-gainsboro);
+}
+.frame-link-maldives,
+.register-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.register-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 42px;
+}
+.frame-link-maldives {
+  width: 629px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-2xl);
+  color: var(--color-silver);
+  font-family: var(--font-inter);
+}
+.frame-home-about,
+.frame-link-thailand {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-link-thailand {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-home-about {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-52xl);
+  color: var(--text-light);
+  font-family: var(--font-katibeh);
+}
+.packages {
+  color: var(--color-gainsboro-100);
+}
+.heading-2-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 62px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.link-view {
+  position: relative;
+  line-height: 47px;
+}
+.link-icon {
+  width: 8.9px;
+  height: 25px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bhutan-link,
+.fourth-link {
+  display: flex;
+  justify-content: flex-start;
+}
+.bhutan-link {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.fourth-link {
+  flex-direction: row;
+  align-items: center;
+  gap: 0 4px;
+}
+.link-bhutan1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-4 {
+  position: relative;
+  line-height: 27px;
+}
+.hong-kong-link,
+.third-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hong-kong-link {
+  align-self: stretch;
+  gap: 21px 0;
+}
+.third-link {
+  flex: 1;
+  gap: 16px 0;
+  min-width: 190px;
+  max-width: 194px;
+}
+.link-thailand1-tourswebp2 {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-41 {
+  position: relative;
+  line-height: 27px;
+}
+.link-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+  min-width: 190px;
+  max-width: 194px;
+}
+.link-nepal1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-42 {
+  position: relative;
+  line-height: 27px;
+}
+.link-group1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+  min-width: 190px;
+  max-width: 194px;
+}
+.link-dubai1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-43 {
+  position: relative;
+  line-height: 27px;
+}
+.link-group2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+  min-width: 190px;
+  max-width: 194px;
+}
+.link-malaysia1-tourswebp2 {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-44 {
+  position: relative;
+  line-height: 27px;
+}
+.link-group3 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+  min-width: 190px;
+  max-width: 194px;
+}
+.link-maldives1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-45 {
+  position: relative;
+  line-height: 27px;
+}
+.link-group4,
+.third-link-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.link-group4 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 21px 0;
+  min-width: 190px;
+  max-width: 194px;
+}
+.third-link-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  padding: 0 var(--padding-7xs) 0 0;
+  gap: 0 23px;
+}
+.link-indonesia1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-46 {
+  position: relative;
+  line-height: 27px;
+}
+.indonesia-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+}
+.show-more1 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-decoration: underline;
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.frame-with-links-child {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  border-radius: var(--br-4xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.frame-with-links {
+  height: 32px;
+  width: 32px;
+  border-radius: var(--br-39xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 7px 0 20px rgba(255, 255, 255, 0.15) inset,
+    4px 8px 20px rgba(0, 0, 0, 0.15);
+  flex-direction: row;
+  padding: var(--padding-9xs);
+  box-sizing: border-box;
+}
+.frame-with-links,
+.show-more,
+.tours-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tours-section {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-4xl) var(--padding-xs);
+  background-color: var(--l2);
+  align-self: stretch;
+  border-radius: var(--br-81xl);
+  background: linear-gradient(135deg, #f9ec7c, #f5b100);
+  flex-direction: row;
+  gap: 0 10px;
+}
+.show-more {
+  flex: 1;
+  flex-direction: column;
+  gap: 42px 0;
+  min-width: 126px;
+}
+.link-singapore1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-47 {
+  position: relative;
+  line-height: 27px;
+}
+.indonesia-link,
+.singapore-tour-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+  min-width: 126px;
+}
+.indonesia-link {
+  flex-direction: row;
+  gap: 0 25px;
+  min-width: 268px;
+  max-width: 100%;
+}
+.link-vietnam1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-48 {
+  position: relative;
+  line-height: 27px;
+}
+.link-vietnam1-tourswebp-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+}
+.link-hongkong1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-49 {
+  position: relative;
+  line-height: 27px;
+}
+.link-hongkong1-tourswebp-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+}
+.link-australia1-tourswebp2 {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-410 {
+  position: relative;
+  line-height: 27px;
+}
+.link-australia1-tourswebp-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+}
+.link-myanmar1-tourswebp {
+  width: 194.2px;
+  height: 194.2px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-411 {
+  position: relative;
+  line-height: 27px;
+}
+.link-myanmar1-tourswebp-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 22px 0;
+}
+.frame-group,
+.heading-2-international-holi-parent,
+.indonesia-link-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.indonesia-link-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  gap: 0 23px;
+}
+.frame-group,
+.heading-2-international-holi-parent {
+  flex-direction: column;
+}
+.frame-group {
+  align-self: stretch;
+  gap: 26px 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-gainsboro-100);
+}
+.heading-2-international-holi-parent {
+  flex: 1;
+  text-align: left;
+  font-size: var(--font-size-33xl);
+  color: #f5f8ff;
+  font-family: var(--font-poppins);
+}
+.destination2,
+.singapore-tour-link {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.singapore-tour-link {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-mid) 0 0;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.destination2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-35xl) var(--padding-42xl) 111px var(--padding-58xl);
+  gap: 42px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .link-view-all-tours {
+    display: none;
+  }
+  .heading-2-container {
+    font-size: var(--font-size-23xl);
+    line-height: 50px;
+  }
+  .destination2 {
+    gap: 42px 0;
+    padding-left: var(--padding-19xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 675px) {
+  .register-frame {
+    gap: 0 42px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-2-container {
+    font-size: var(--font-size-12xl);
+    line-height: 37px;
+  }
+  .link-view {
+    font-size: var(--font-size-base);
+    line-height: 38px;
+  }
+  .heading-4,
+  .heading-41,
+  .heading-42,
+  .heading-43,
+  .heading-44,
+  .heading-45,
+  .heading-46,
+  .heading-47 {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+  .indonesia-link {
+    flex-wrap: wrap;
+  }
+  .heading-410,
+  .heading-411,
+  .heading-48,
+  .heading-49 {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+}
